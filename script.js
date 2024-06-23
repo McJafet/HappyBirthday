@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'Si volviste a ver esta página', 'es porque aún no estás segura', 'solo quiero que sepas que', 'aún no es tarde mi vida.'],
+			strings: [ 'No encuentro razón para', 'que me hayas escrito, por favor', 'sigue pensándolo, seguiré esperándote Reina'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
