@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'No encuentro razón para', 'que me hayas escrito, por favor', 'sigue pensándolo, seguiré esperándote Reina'],
+			strings: [ 'Feliz Día', 'Mi Futura Diseñadora Industrial', 'Favorita', 'Ps. Ily'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
