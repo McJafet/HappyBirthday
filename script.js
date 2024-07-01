@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'Feliz Día', 'Mi Futura Diseñadora Industrial', 'Favorita', 'Ps. Ily'],
+			strings: [ 'Espero que tu mañana', 'sea tan bonita como tu', 'sonrisa y espero que', 'el resto del día sea', 'dulce como tu mirada.','Buen inicio de semana y mes.','Te amo my little JLo'],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
